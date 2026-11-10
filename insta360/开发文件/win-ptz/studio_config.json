@@ -1,0 +1,12 @@
+{
+  "presets": {
+    "正前": {
+      "pan": 3,
+      "tilt": 1,
+      "zoom": 100
+    }
+  },
+  "patrol_dwell": 0.5,
+  "fov": 85.0,
+  "speed": 60
+}

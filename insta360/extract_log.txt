@@ -1,0 +1,24 @@
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+Scanning the drive for archives:
+1 file, 795788543 bytes (759 MiB)
+
+Extracting archive: E:\SheNinst千人黑客松\影石360\赛事SDK包（Windows+Linux）.rar
+--
+Path = E:\SheNinst千人黑客松\影石360\赛事SDK包（Windows+Linux）.rar
+Type = Rar5
+Physical Size = 795788543
+Characteristics = Locator QuickOpen:795788321
+Encrypted = -
+Solid = -
+Blocks = 2
+Method = v6:32M:m0
+Multivolume = -
+Volumes = 1
+
+Everything is Ok
+
+Files: 2
+Size:       795788136
+Compressed: 795788543

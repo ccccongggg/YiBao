@@ -1,0 +1,24 @@
+# 第三方 SDK 安装包（体积过大，请自行向厂商获取）
+insta360/赛事SDK包/
+insta360/赛事SDK包（Windows+Linux）.rar
+insta360/*.zip
+insta360/Link2SDK-拓展协议版/
+
+# 三维模型源文件（SolidWorks，本地归档）
+model/
+
+# 构建与缓存产物
+build/
+**/build/
+__pycache__/
+*.pyc
+
+# 可执行文件与运行期产出
+*.exe
+*.log
+insta360/开发文件/win-ptz/recordings/
+insta360/开发文件/win-ptz/snapshots/
+insta360/开发文件/win-ptz/live_*.jpg
+
+# Agent 工作记忆
+.workbuddy/
