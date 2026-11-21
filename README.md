@@ -3,6 +3,15 @@
 > SheNicest 千人黑客松 · **硬件赛道入围奖 · 最佳人气奖**
 > 一台能接管电脑的桌面机器人：机身模块化可拆装，云台跟着人脸转。
 
+## 🔎 速览 / AT A GLANCE
+
+**一句话** — 一台能转头看人的桌面机器人：ESP32-S3 控舵机，Link2 云台追人脸，外壳三代自己建模打印。
+**我的角色** — ESP32-S3 固件、云台视觉跟踪联调、外壳三维模型与 3D 打印落地
+**技术栈** — `ESP32-S3` `ESP-IDF 5.5` `Python` `OpenCV（YuNet / SFace）` `DirectShow` `SolidWorks 2024`
+**关键数字** — 云台守护进程 <10 ms 响应；串口 115200 自检输出；外壳三代迭代
+**跑起来** — 固件 `cd ESP32_other/esp32s3_servo_ctrl && idf.py build flash`；云台 `python insta360/开发文件/win-ptz/link2_studio.py`
+**作品档案** — [projects.html · IDX 001 ↗](https://ccccongggg.github.io/projects.html)
+
 ![伊宝外壳渲染图](image/2.png)
 
 ## 📸 外壳设计迭代
